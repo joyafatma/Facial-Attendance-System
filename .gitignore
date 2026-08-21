@@ -1,0 +1,12 @@
+# Ignore virtual environment
+.venv/
+
+# Ignore personal face images
+images/Joya Fatma/
+
+# Ignore attendance records
+Attendance.csv
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
